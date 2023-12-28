@@ -77,9 +77,9 @@ Close the HTML structure.
   </html>
 ```
 OUTPUT:
-![Screenshot 2023-12-25 110950](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/558eab66-f2f4-4b2d-9181-bd437b2a867f)
+![292756171-60c0b797-e892-4e0a-94b1-01aba67cd168](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/cb40397b-87b2-48a7-9a45-66cc7ec41ef3)
 
-![Screenshot 2023-12-25 173132](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/e058232c-76a4-449f-aeed-4c22f55ecd42)
+![292754452-e058232c-76a4-449f-aeed-4c22f55ecd42](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/6e2c4132-12d1-4082-9940-d75743b1197a)
 
 # Ex-07(ii)-CSS
 
@@ -161,10 +161,9 @@ End the HTML document by closing all open tags.
   </html>
 ```
 OUTPUT:
-![Screenshot 2023-12-25 172313](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/e83b8f3e-be85-4ea8-a552-7e36931e53f4)
-
-![Screenshot 2023-12-25 173331](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/5e6e54b4-9892-45ef-a3b4-0883691cf87e)
-![Screenshot 2023-12-25 173933](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/28419cd3-0ff7-4888-b3ec-126b1270b6f6)
+![292756171-60c0b797-e892-4e0a-94b1-01aba67cd168](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/59397672-e69b-435f-91b6-3981f26b0281)
+![292755112-5e6e54b4-9892-45ef-a3b4-0883691cf87e](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/e2f88276-78a7-42e0-be16-a4dbca6caecb)
+![292755131-28419cd3-0ff7-4888-b3ec-126b1270b6f6 (1)](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/6ea0dd7f-1227-4392-bc95-490b5ef84ac3)
 
 # Ex-07(iii)-CSS Orientation-based Media Query
 
@@ -224,9 +223,10 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
 ```
 OUTPUT:
+![292755820-4c964b1e-1f96-473a-9eea-4f766172d6b9](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/09739f1b-e728-44e4-bcc9-204a34c76900)
+![292755852-03ec71d8-dc31-4149-b430-a420c6b6770b](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/2baf35fa-0fe1-462e-9b7a-f883740b5521)
 
-![Screenshot 2023-12-25 174657](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/4c964b1e-1f96-473a-9eea-4f766172d6b9)
-![Screenshot 2023-12-25 174921](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/03ec71d8-dc31-4149-b430-a420c6b6770b)
+
 
 
 # Ex-07(iv)-CSS Responsive Typography
@@ -300,10 +300,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
 ```
 OUTPUT:
-![Screenshot 2023-12-25 180037](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/7c1e1a44-c04a-4618-b1be-123dfc7c474f)
+![292756305-7c1e1a44-c04a-4618-b1be-123dfc7c474f](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/47964ba8-be91-45f8-b93e-ea4033e1f266)
+![292756353-d2f7ffd1-217e-419b-a0b8-d0c4020306ce](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/7206eede-00ca-4fd5-8a25-6dbf89439239)
 
-
-![Screenshot 2023-12-25 180119](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/d2f7ffd1-217e-419b-a0b8-d0c4020306ce)
 
 Ex-07(v)-Print-friendly CSS
 # AIM
@@ -371,7 +370,8 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 OUTPUT:
 
-![Screenshot 2023-12-25 181341](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/7d23af7d-1911-4069-8519-1bc3b1daae83)
+![292757080-7d23af7d-1911-4069-8519-1bc3b1daae83](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/a80bb866-67c3-4d1c-b9e8-6298c72b694e)
+
 
 # Ex-07(vi)-Dark Mode Implementation
 # AIM
@@ -435,7 +435,7 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </html>
 ```
 OUTPUT:
-![Screenshot 2023-12-25 181920](https://github.com/chandru174642/ODD2023-WT-Ex-07-CSS/assets/139841798/0bc0e7fc-84a7-4dd6-b9b5-b817f0867079)
+![image](https://github.com/Srivatsan0405/ODD2023-WT-Ex-07-CSS/assets/139841630/4492a314-a65c-41c4-80f7-44d72cc86caf)
 
 # RESULT:
 Therefore the code has been successfully executed.
